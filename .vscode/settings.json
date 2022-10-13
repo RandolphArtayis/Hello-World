@@ -1,0 +1,7 @@
+{
+    "firefox.executable": "1.1.1.1",
+    "firefox.port": 1351,
+    "firefox.profile": "Undercover",
+    "firefox.profileDir": "1.1.1.1",
+    "firefox.keepProfileChanges": true
+}
